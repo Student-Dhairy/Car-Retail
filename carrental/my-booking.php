@@ -205,5 +205,4 @@ foreach($results as $result)
 <script src="assets/js/owl.carousel.min.js"></script>
 </body>
 </html>
-<?php } 
-?>
+<?php } ?>
